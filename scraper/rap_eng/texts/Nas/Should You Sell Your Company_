@@ -1,0 +1,68 @@
+Sittin’ up drunk shuffling thoughts
+Got paper but I’m lost
+Losing focus what a n#%$a still hustin’ for?
+My seed is straight the family’s settled
+Idle time get the man in trouble
+—Nas, Suicide Bounce
+
+One of the most difficult decisions that a CEO ever makes is whether or not to sell her company. Logically, determining whether selling a company will be better in the long term than continuing to run it stand-alone involves a huge number of factors, most of which are speculative or unknown. And if you are the founder, the logical part is the easy part.
+
+Indeed, the task would be far simpler if there were no emotion involved. But selling your company is always emotional and deeply personal.
+
+Types of Acquisitions
+For the purpose of this discussion, it is useful to think about technology acquisitions in 3 categories:
+
+**Talent and/or Technology**—when a company is acquired purely for its technology and or its people. These kinds of deals typically range between $5 and $50M
+**Product**—when a company is acquired for its product, but not its business. The acquirer plans to sell the product roughly as it is, but will do so primarily with its own sales and marketing capability. These kinds of deals typically range between $25M and $250M
+**Business**—when a company is acquired for its actual business (revenue and earnings). The acquirer values the entire operation (product, sales, and marketing) not just the people, technology, or products. These deals are typically valued (at least in part) by their financial metrics and can be extremely large (e.g. Microsoft’s $30B+ offer for Yahoo!)
+This post is most applicable to business acquisitions with some relevance to product acquisitions and will be fairly useless if you are selling people and/or technology
+
+The Logical
+When analyzing whether or not you should sell your company, a good basic rule of thumb is:
+
+If:
+A) You are very early on in a very large market
+AND
+B) You have a good chance of being number 1 in that market
+
+Then you should remain stand-alone. The reason is that nobody will be able to afford to pay what you are worth, because nobody can give you that much forward credit. For an easy to understand example, consider Google. When they were very early, they reportedly received multiple acquisition offers for more than $1B. These were considered very rich offers at the time and they were being offered a gigantic multiple. However, given the size of the ultimate market, it did not make sense for Google to sell. In fact, it didn’t make sense for Google to sell to any suitor at any price that the buyer could have paid. Why? Because the market that Google was pursuing was actually bigger than the markets that all of the potential buyers owned and Google had built a nearly invincible product lead which enabled them to be number 1
+
+Contrast this situation with Pointcast. Pointcast was one of the first Internet applications to catch fire. They were the buzz of Silicon Valley and the technology industry in general. They received billion dollar acquisition offers that they passed on. Then, due to flaws in their product architecture, their customers started to turn off their application. Overnight, their market collapsed and never returned. They were ultimately sold for a relatively tiny amount
+
+So, the judgment that you have to make is a) is this market really much bigger (more than an order of magnitude) than has been exploited to date? b) Are we going to be number 1? If the answer to either a) or b) is no, then you should consider selling. If the answers to both are yes, then selling would literally mean selling yourself and your employees short
+
+Unfortunately, these questions are not as simple to answer as I’ve made them out to be. In order to get the answer right, you also have to answer the question: “what is the market really and who are the competitors going to be?” Was Google in the search market or the portal market? Clearly, in retrospect, they were in the search market. Most people thought they were in the portal market at the time. Yahoo was a tough competitor in the portal market, but not so much in the search market. If Google had really been in the portal market, then selling might have been a good idea. Pointcast thought that their market was much larger than it turned out to be. Interestingly, Pointcast’s own product execution (or lack thereof) caused their market to shrink
+
+Let’s look at the case of Opsware. Why did I sell Opsware? Another good question is why didn’t I sell Opsware until I did?
+
+At Opsware, we started in the Server Automation market. When we received our first inquiries/offers for the Server Automation company, we had less than 50 customers. I believed that there were at least 10,000 target customers and that we had a decent shot at being number 1. In addition, although I knew the market would be redefined, I thought that we could expand to networks and storage (Data Center Automation) faster than the competition and win that market as well. Therefore, assuming 30% market share, somebody would have had to pay 60X what we were worth in forward credit to buy out our potential. You won’t be surprised to find that nobody was willing to pay that
+
+Once we grew to several hundred customers and expanded into Data Center Automation, we were still number 1 and were more valuable stand-alone than any of the prior acquisition offers. At that point both Opsware and our main competitor Bladelogic had developed into full-fledged companies (world-wide sales forces, built out professional services, etc). This was significant, because it meant that a large company could buy one of us and potentially execute successfully (big enterprise companies can’t generally succeed with small acquisitions, because too much of the important intellectual property is the sales methodology and big companies can’t build that)
+
+At this point, it became clear that BMC was going to buy either Opsware or Bladelogic. As a result, the calculus, or whether Opsware was going to be number 1 in the market, needed to be redefined as follows:
+
+1. We had to be number 1 in the Systems & Network Management market rather than the Data Center Automation market, because like the word processor market, the Data Center Automation market was going to be subsumed by a larger market that contained it
+2. In order to be number 1, we had to beat BMC+Bladelogic which was a significantly more difficult opponent than either company stand-alone.
+
+Finally, the market itself was transforming due to an underlying technological shift: virtualization. Virtualization meant that the entire market needed to be re-tooled, so we were embarking on a new R&D race to build the best management for virtualized environments. This meant deferring earnings for a very long time.
+
+Based on all of these factors, it made sense for us to at least consider the possibility of acquisition and run a short process to understand the interest in the M&A market. Through that process, 11 companies made acquisition offers of some form. This told me that we were at a local maxima in terms of the market price for Opsware. I.e., the set of potential buyers was convinced that the market was very important and there was no extra premium that we could hope to achieve through better awareness. In the end, based on a lot of analysis and soul searching, I determined that the current local maxima was higher than we could expect to achieve in the next 3-5 years and I sold the company to Hewlett Packard for $1.65B. I think and hope that was the right decision.
+
+The Emotional
+The funny thing about the emotional part of the decision is that it’s so schizophrenic.
+
+How can you ever sell your company after you’ve personally recruited every employee and sold them on your spectacular vision of a thriving, stand-alone business? How can you ever sell out your dream?
+
+How can you walk away from total financial independence for yourself and every member of your close and distant family? Aren’t you in business to make money? How much money does one person need?
+
+How can you reconcile Dr. Stay-the-Course and Mr. Sell-the-Thing? Clearly they are irreconcilable, but the key is to mute them both.
+
+A few keys on muting the emotions:
+
+Get paid (a salary)—Most venture capitalists like entrepreneurs that are “all in”, meaning that the entrepreneur has everything invested in the company and will have very little to show for her efforts if the company does not succeed. As part of this, they prefer that the founding CEO have a very low salary. In general, this is a good idea, because the temptation to walk away when things go poorly is intense and total financial commitment helps one keep his other commitments. However, once the company starts to become a company rather than an idea then it makes sense to pay the CEO at market. More specifically, once the company has a business (as defined above) and becomes an attractive acquisition target, it makes sense to pay the CEO, so that the decision to keep or sell the company isn’t a direct response to the CEO’s personal financial situation as in: “I don’t think that we should sell the company, but I live in an 850 square foot apartment with my husband and two kids and it’s that or divorce.”
+
+Be clear with the company—One question that every start-up CEO gets from her employees is: “are you selling the company?” This is an incredibly difficult question. If she says nothing, the employee will likely interpret this to mean the company is for sale. If she says “at the right price,” the employee will wonder what that price is and may even ask. If the company ever reaches that price, the employee will assume the company will be sold. If she dodges the question with the standard “the company is not for sale,” the employee may feel betrayed if the company is ever sold. More importantly, the CEO may feel like she is betraying the employee and that feeling will influence her decision making process. One way to avoid these traps is to describe the analysis in the prior section: if the company achieves product/market fit in a very large market and has an excellent chance to be number 1, then the company will likely remain independent. If not, it will likely be sold. This is one good method to describe the interests of the investors in a way that’s not at odds with the interests of the employees and is true
+
+Final Thought
+
+When faced with the decision of whether or not to sell your company, there is no easy answer. However, preparing yourself intellectually and emotionally will help

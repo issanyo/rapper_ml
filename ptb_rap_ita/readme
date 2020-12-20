@@ -1,0 +1,1 @@
+python3 ptb_word_lm.py --data_path=/home/issan/mystaff/scraper/rap_ita/traindata/ --model=small --save_path=/home/issan/mystaff/ptb_rap_ita/model/ --num_gpus=0 --rnn_mode=basic

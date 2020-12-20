@@ -1,0 +1,3 @@
+HOOK: These niggas claim they banging but we YBK these niggas claim they banging but we YBK these niggas claim they banging but we YBK we YBK yeah bitch we YBK!
+
+They never on their block down there everyday. Niggas getting drop saying fuck g gang, catch P.J he getting shot in his face I'm R.L.N GG GANG yb fucking K. Seen that nigga Poo he didn't wanna fight, I already knew they wasn't about that life. Catch that nigga Chris then it's pop on site. Catch their mom on my block she will die tonight

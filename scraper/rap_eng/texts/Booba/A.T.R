@@ -1,0 +1,69 @@
+[Couplet 1 : Julian]
+Yeah you look so fly
+I'll buy that drink
+Yeah you look so real, yeah yeah
+I saw you from across the room
+Did you came alone, I'll buy your drink?
+I'm real, no lie
+Real niggas don't lie
+I pay your flight, you fly
+I say you fly
+Yeah, yeah
+Yeah, yeah
+Yeah, yeah
+Yeah, yeah
+
+[Refrain : Julian]
+I say you look so fly
+I say you look so fly, look so fly
+I'll buy that shit
+No lie, no lie, you fly
+I say you fly
+Yeah, yeah
+Yeah, yeah
+Yeah, yeah
+
+[Pont]
+Oh yeah
+These niggas ain't real
+These niggas ain't got nothin' real
+Oh yeah
+
+[Couplet 2: Booba]
+J'me fais cer-su, j'fais un room-service
+J't'ai vue à travers la room'zer bitch
+Reviens m'voir, fais ton possible
+Gros bras, toutes les positions sont possibles
+Donne-moi du love que j'déverse ma haine
+Des lovés que je ice la chaîne
+Ta meuf en rêve, la mienne se l'achète
+Le rap français se lave la schnek
+J'les laisserai même pas lécher l'assiette
+Partagez-vous la miette, allez faire crier la muette
+Sur la route du Septième, y'a pas d'ralentisseur
+J'suis dans ton bretzel comme un envahisseur
+Ton string ficelle est plus qu'aguicheur
+J'suis dans l'textile mais j'vais t'donner plus qu'un t-shirt
+Smith & Wess dans la va-go, c'est un fouineur
+Tout le monde dans la boîte, gros, t'es un p'tit joueur
+Quand j'débarque, 100 moins 8 Zoo, y'en a qui pleurent
+911 double-turbo, y'en a qui meurent
+
+[Pont]
+Look so fly
+Look so fly, yeah, yeah
+Look so fly
+Look so fly, yeah, yeah
+
+[Refrain]
+I'll buy that shit
+No lie, no lie, you fly
+I say you fly
+Yeah, yeah
+Yeah, yeah
+Yeah, yeah
+I'll buy that drink
+Don't lie, I'll buy that drink
+Don't lie, I'll buy that drink
+Don't lie, I'll buy that drink
+Don't lie
